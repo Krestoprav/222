@@ -1,0 +1,2 @@
+This is a test file created in the workspace directory.
+It contains some sample text to verify that file creation works properly.
